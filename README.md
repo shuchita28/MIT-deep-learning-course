@@ -1,2 +1,1 @@
-# datacamp-solutions
-My solutions for DataCamp practice
+# MIT Deep Learning Course 6.S191
